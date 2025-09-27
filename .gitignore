@@ -1,0 +1,22 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Writing workspace (user's private work)
+writing/
+my-research/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Log files
+*.log
+
+# Backup directories
+.template-backup-*/
